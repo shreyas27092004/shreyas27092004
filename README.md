@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/shreyas27092004/shreyass27092004/blob/main/banner.jpg" alt="Banner">
+  <img src="https://github.com/shreyas27092004/shreyass27092004/blob/main/banner.png" alt="Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Shreyas V</h1>
