@@ -3,6 +3,10 @@
   <img src="https://github.com/shreyas27092004/shreyass27092004/blob/main/banner.png" alt="Banner">
 </p>
 
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=shreyas27092004&color=blue&style=flat)
+</p>
+
 <h1 align="center">Hi 👋, I'm Shreyas V</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
 
