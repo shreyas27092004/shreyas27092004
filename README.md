@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=shreyas27092004&color=blue&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=shreyas27092004&color=blue&style=flat" alt="Profile Views">
 </p>
 
 <h1 align="center">Hi 👋, I'm Shreyas V</h1>
