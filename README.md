@@ -1,6 +1,8 @@
 <!-- Profile Banner -->
-<p align="center"> ![Banner](https://github.com/shreyas27092004/shreyass27092004/blob/main/banner.jpg)
+<p align="center">
+  <img src="https://github.com/shreyas27092004/shreyass27092004/blob/main/banner.jpg" alt="Banner">
 </p>
+
 <h1 align="center">Hi 👋, I'm Shreyas V</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
 
