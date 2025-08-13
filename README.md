@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](https://your-custom-banner-link.com/banner.jpg)
+![Banner]([https://your-custom-banner-link.com/banner.jpg](https://github.com/shreyas27092004/shreyass27092004/blob/main/banner.jpg))
 
 <h1 align="center">Hi 👋, I'm Shreyas V</h1>
 <h3 align="center">A passionate Data Science student from India</h3>
